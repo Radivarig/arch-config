@@ -64,8 +64,8 @@ bindcode Shift+82 exec transset-df -a --dec 0.08
 bindcode Shift+86 exec transset-df -a --inc 0.05
 
 #change window screen brightness
-bindcode 95 exec xbacklight -dec 8
-bindcode 96 exec xbacklight -inc 5
+bindcode Control+95 exec xbacklight -dec 8
+bindcode Control+96 exec xbacklight -inc 5
 
 # kill focused window
 bindsym $mod+Shift+q kill
