@@ -8,57 +8,57 @@
 ! --- special colors ---
 
 *background: #000000
-*foreground: #d0f5e0
+*foreground: #c8daed
 
 ! --- standard colors ---
 
 ! black
-*color0: #141414
+*color0: #1b1b1b
 
 ! bright_black
-*color8: #343434
+*color8: #353535
 
 ! red
-*color1: #7b2422
+*color1: #502028
 
 ! bright_red
-*color9: #cc4a47
+*color9: #b74a5c
 
 ! green
-*color2: #227b24
+*color2: #285020
 
 ! bright_green
-*color10: #47cc4a
+*color10: #5cb74a
 
 ! yellow
-*color3: #797b22
+*color3: #504820
 
 ! bright_yellow
-*color11: #c9cc47
+*color11: #b7a54a
 
 ! blue
-*color4: #24227b
+*color4: #202850
 
 ! bright_blue
-*color12: #4a47cc
+*color12: #4a5cb7
 
 ! magenta
-*color5: #7b2279
+*color5: #482050
 
 ! bright_magenta
-*color13: #cc47c9
+*color13: #a54ab7
 
 ! cyan
-*color6: #22797b
+*color6: #205048
 
 ! bright_cyan
-*color14: #47c9cc
+*color14: #4ab7a5
 
 ! white
-*color7: #c7c7c7
+*color7: #808080
 
 ! bright_white
-*color15: #ffffff
+*color15: #f1f1f1
 
 
 ! ------------------------------------------------------------------------------
