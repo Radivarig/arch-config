@@ -45,8 +45,13 @@ floating_modifier $mod
 bindcode 107 exec ksnapshot --fullscreen
 bindcode Shift+107 exec ksnapshot --region
 
+
+#set cursor, otherwise it is hourglass
+exec xsetroot -cursor_name left_ptr
+
 #prevents grey background on login
 exec hsetroot -solid "#000000"
+
 #xcompmgr terminal transparency
 exec xcompmgr -c -n
 
