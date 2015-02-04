@@ -56,7 +56,7 @@ bindsym $mod+Return exec konsole
 
 #change window under cursor opacity
 bindcode Shift+82 exec transset-df -a --dec 0.08
-bindcode Shift+86 exec transset-df -a --inc 0.04
+bindcode Shift+86 exec transset-df -a --inc 0.05
 
 # kill focused window
 bindsym $mod+Shift+q kill
