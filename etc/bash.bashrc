@@ -21,3 +21,4 @@ case ${TERM} in
 esac
 
 [ -r /usr/share/bash-completion/bash_completion   ] && . /usr/share/bash-completion/bash_completion
+export PROMPT_COMMAND='history -a'
