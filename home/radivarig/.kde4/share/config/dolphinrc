@@ -1,0 +1,57 @@
+Height 900=868
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAACIAAADRPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAgAAAAlgAAAE0A////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAgAAADRAAAAE0A////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAFAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAADQA////AAACjgAAA0QAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+Width 1600=796
+
+[AdditionalInfoDialog]
+Height 900=283
+Width 1600=277
+
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=16
+
+[DownloadDialog Settings]
+Height 900=400
+Width 1600=700
+
+[General]
+BrowseThroughArchives=true
+GlobalViewProps=true
+LockPanels=false
+ShowFullPath=true
+ShowToolTips=true
+Version=200
+ViewPropsTimestamp=2014,11,9,19,2,50
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+Height 900=414
+Width 1600=464
+
+[MainWindow]
+Height 900=276
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAACtAAADQvwCAAAAAvsAAAAUAHAAbABhAGMAZQBzAEQAbwBjAGsBAAAAHgAAA0IAAABkAQAABfsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAgAAAAlgAAABwBAAAFAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAHAEAAAUAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAADkBAAAFAAAFjAAAA0IAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1600=1596
+
+[Open-with settings]
+CompletionMode=5
+History=subl,wine,feh,okular,vlc,remarkable,retext,lighttable,vim,monodevelop,ark,unrar,unzip
+
+[PreviewSettings]
+Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
+
+[SettingsDialog]
+Height 900=355
+Width 1600=512
+
+[ViewPropertiesDialog]
+Height 900=438
+Width 1600=382
