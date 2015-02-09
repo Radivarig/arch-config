@@ -1,2 +1,10 @@
 [
+	{ "keys": ["ctrl+shift+up"], 	"command": "move_by_paragraph", "args": {"extend": true, "forward": false} },
+	{ "keys": ["ctrl+shift+down"], 	"command": "move_by_paragraph", "args": {"extend": true} },
+	{ "keys": ["alt+up"], 			"command": "move_by_paragraph", "args": {"extend": false, "forward": false} },
+	{ "keys": ["alt+down"], 		"command": "move_by_paragraph", "args": {"extend": false} }
+
+	//{ "keys": ["alt+up"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": false} },
+	//{ "keys": ["alt+down"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": true} }
+
 ]
