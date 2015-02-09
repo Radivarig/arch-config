@@ -1,10 +1,16 @@
 [
 	 { "keys": ["ctrl+shift+up"], 	"command": "move_by_paragraph", "args": {"extend": true, "forward": false} }
-	,{ "keys": ["ctrl+shift+down"], 	"command": "move_by_paragraph", "args": {"extend": true} }
-	,{ "keys": ["ctrl+up"], 			"command": "move_by_paragraph", "args": {"extend": false, "forward": false} }
+	,{ "keys": ["ctrl+shift+down"],	"command": "move_by_paragraph", "args": {"extend": true} }
+	,{ "keys": ["ctrl+up"], 		"command": "move_by_paragraph", "args": {"extend": false, "forward": false} }
 	,{ "keys": ["ctrl+down"], 		"command": "move_by_paragraph", "args": {"extend": false} }
 
 	,{ "keys": ["alt+up"], "command": "swap_line_up" }
 	,{ "keys": ["alt+down"], "command": "swap_line_down" }
+
+	,{ "keys": ["ctrl+q"], "command": "__nothing" }
+	,{ "keys": ["ctrl+y"], "command": "__nothing" }
+
+	//,{ "keys": ["alt+shift+left"], 	"command": "move", "args": {"extend": true, "by": "subwords", "forward": false} }
+	//,{ "keys": ["alt+shift+right"],	"command": "move", "args": {"extend": true, "by": "subword_ends", "forward": true} }
 
 ]
