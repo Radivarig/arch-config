@@ -10,6 +10,11 @@
 	,{ "keys": ["ctrl+q"], "command": "__nothing" }
 	,{ "keys": ["ctrl+y"], "command": "__nothing" }
 
+	,{ "keys": ["ctrl+shift+y"], "command": "expand_selection", "args": {"to": "brackets"} }
+	,{ "keys": ["ctrl+y"], "command": "move_to", "args": {"to": "brackets"} }
+
+	//make: jump to next any bracket
+	//,{ "keys": ["ctrl+alt+m"], "command": "toggle_menu" }
 	//,{ "keys": ["alt+shift+left"], 	"command": "move", "args": {"extend": true, "by": "subwords", "forward": false} }
 	//,{ "keys": ["alt+shift+right"],	"command": "move", "args": {"extend": true, "by": "subword_ends", "forward": true} }
 
