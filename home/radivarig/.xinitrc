@@ -3,3 +3,4 @@ setxkbmap -layout hr,lv -option grp:alt_shift_toggle &
 hsetroot -solid "#000000" &
 sh ~/.fehbg &
 exec i3
+

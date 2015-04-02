@@ -49,15 +49,12 @@ bindcode Shift+107 exec ksnapshot --region
 #set cursor, otherwise it is hourglass
 exec xsetroot -cursor_name left_ptr
 
-#prevents grey background on login
-exec hsetroot -solid "#000000"
-
 #xcompmgr terminal transparency
 exec xcompmgr -c -n
 
 # start a terminal
 #bindsym $mod+Return exec i3-sensible-terminal
-bindsym $mod+Return exec konsole & sleep .1s && transset-df -a
+bindsym $mod+Return exec konsole
 
 #change window under cursor opacity
 bindcode Shift+82 exec transset-df -a --dec 0.08
